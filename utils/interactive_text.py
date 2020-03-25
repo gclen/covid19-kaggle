@@ -21,7 +21,7 @@ methodology = Div(text="""<h3>Methodology:</h3><p>To find related papers we used
 resources = Div(text="""<h3>Resources:</h3>
 <ul>
 <li><a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge">COVID-19 Open Research Dataset Challenge (CORD-19)</a><</li>
-<li>The interactive code was based on <a href="https://github.com/MaksimEkin/COVID19-Literature-Clustering">this repository</a> by <a href="https://github.com/MaksimEkin/"></a></li>
+<li>The interactive code was based on <a href="https://github.com/MaksimEkin/COVID19-Literature-Clustering">this repository</a> by <a href="https://github.com/MaksimEkin/">github user MaksimEkin</a></li>
 </ul>
 """)
 
