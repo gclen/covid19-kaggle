@@ -1,3 +1,5 @@
+You can interact with an embedding of the abstracts [here](https://gclen.github.io/covid19-kaggle/plots/umap_covid-19_interactive.html)
+
 ### Methodology
 
 To find related papers we used the following methods:
